@@ -1,3 +1,5 @@
+// Reverse words in a string that are greater than 5 letters
+
 function spinWords(str) {
   let strArr = str.split(' ');
   for (let i = 0; i < strArr.length; i++) {
